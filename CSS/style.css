@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-size: 4rem;
+    margin-top: 0;
+    font-family: 'Pacifico', cursive;
+    color:#66BFBF;
+}
+
+h2{
+    font-weight: normal;
+    color:#66BFBF;
+    font-size: 2rem;
+}
+
+h3{
+    font-size: 1rem;
+    color: #11999E;
+}
+
+p{
+   line-height: 2;
+}
+
+.top{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle{
+    position: relative;
+    top: 100px;
+}
+
+.bottom{
+    padding: 50px 0 10px;
+    background-color: #66BFBF;
+    position: relative;
+    top: 200px;
+}
+
+.no{
+    text-decoration: underline;
+}
+
+
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top: 30px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left:250px;
+    top: 350px;
+}
+
+.tan{
+    height: 200px;
+}
+
+.skill-img{
+    border-radius: 200px;
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.study-img{
+    border-radius: 300px;
+    height: 180px;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact{
+    margin: auto auto 70px;
+    width: 40%;
+}
+
+.btn{
+    background-color: #11999E;
+    padding: 10px 16px;
+    border-radius: 8px;
+    color: #EAF6F6;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-color: #30e3cb;
+}
+
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    margin: 20px 40px;
+}
+
+.footer-link:hover{
+    color: #EAF6F6;
+}
+
+.skill-row{
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+}
+
+.edu{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 12px;
+    padding: 20px 0;
+}
+
+hr{
+    padding: 30px;
+    margin: 50px auto;
+    color: grey;
+    border-style: dotted;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    height: 20px;
+    width: 4%;
+}
+
+.intro{
+    margin: auto;
+    width: 30%;
+}
